@@ -115,10 +115,10 @@ body::before {
   .profile-card a:hover {
     transform: scale(1.2) translateY(-5px);
   }
-  .profile-card a.email {
+  .profile-card a.facebook {
     background: linear-gradient(#1293d2, #0e76a8);
   }
-  .profile-card a.telefone {
+  .profile-card a.email {
     background: linear-gradient(to right, #008000, #009600);
   }
   .profile-card a.instagram {
