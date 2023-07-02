@@ -35,8 +35,8 @@ body::before {
 }
 .profile-card__img img {
   margin: auto;
-  width: 400px;
-  height: 400px;
+  width: 550px;
+  height: 550px;
   border-radius: 50%;
   -o-object-fit: cover;
      object-fit: cover;
@@ -49,11 +49,11 @@ body::before {
   gap: 13px;
 }
 .profile-card__desc h1 {
-  font-size: 6rem;
+  font-size: 8rem;
   font-weight: bold;
 }
 .profile-card__desc h1 + div {
-  font-size: 50px;
+  font-size: 47px;
 }
 .profile-card__info {
   display: flex;
